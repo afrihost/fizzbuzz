@@ -1,0 +1,22 @@
+{
+    "name": "johnathanmdell/fizzbuzz",
+    "description": "FizzBuzz Code Kata",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnathan Dell",
+            "email": "johnathanmdell@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "FizzBuzz\\": "src"
+        }
+    }
+}
