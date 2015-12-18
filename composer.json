@@ -1,11 +1,11 @@
 {
-    "name": "johnathanmdell/fizzbuzz",
+    "name": "afrihost/fizzbuzz",
     "description": "FizzBuzz Code Kata",
     "license": "MIT",
     "authors": [
         {
             "name": "Johnathan Dell",
-            "email": "johnathanmdell@gmail.com"
+            "email": "open-source@afrihost.com"
         }
     ],
     "require": {
